@@ -18,6 +18,7 @@ Plug 'tpope/vim-obsession'
 Plug 'xolox/vim-colorscheme-switcher'
 Plug 'fatih/vim-go'
 Plug 'alvan/vim-closetag'
+Plug 'franbach/miramare'
 
 call plug#end()
 
@@ -29,7 +30,7 @@ let g:prettier#autoformat = 1
 
 " Airline
 let g:airline#extensions#tabline#enabled = 1
-let g:airline_theme='base16_nord'
+let g:airline_theme='miramare'
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#fnamecollapse = 1
 let g:airline#extensions#tabline#fnamemod = ':t'
@@ -38,7 +39,7 @@ let g:airline#extensions#tabline#fnamemod = ':t'
 syntax enable
 set termguicolors
 set background=dark
-colorscheme nord
+colorscheme miramare
 
 "Use alt+hjkl to move between split/vsplit panels
 tnoremap <A-h> <C-\><C-n><C-w>h
