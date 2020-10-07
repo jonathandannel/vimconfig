@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/jonathan/Petobe_Booking_Web/src/scenes/BookingRoot/User/SendRequest/Components/HourSelect'
+let g:netrw_dirhist_7='/home/jonathan/Petobe_Booking_Web/src/scenes/BookingRoot/User/SendRequest/Components'
+let g:netrw_dirhist_6='/home/jonathan/Petobe_Booking_Web/src/scenes/BookingRoot/User/SendRequest'
+let g:netrw_dirhist_5='/home/jonathan/Petobe_Booking_Web/src/scenes/BookingRoot/User'
+let g:netrw_dirhist_4='/home/jonathan/Petobe_Booking_Web/src/scenes/BookingRoot'
+let g:netrw_dirhist_3='/home/jonathan/Petobe_Booking_Web/src/scenes'
+let g:netrw_dirhist_2='/home/jonathan/Petobe_Booking_Web/src'
+let g:netrw_dirhist_1='/home/jonathan/Petobe_Booking_Web'
